@@ -1,6 +1,6 @@
 #!/bin/bash
 ########################################################
-# CLEAN UP SCRIPT DISCRIPTION : 
+# CLEAN UP SCRIPT DESCRIPTION : 
 #########################################################
 # This script will go through a defined LOCATION and
 # find directories with a ZIPPED file. When it finds a 
